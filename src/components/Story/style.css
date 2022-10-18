@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    gap: 16px;
+    padding: 15px;
+}
+
+.user-elements {
+    cursor: pointer;
+    text-align: center;
+}
+
+.user-elements div {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient( #c82d8e, #f99d4c);
+}
+
+.image-user-story {
+    width: 61px;
+    height: 61px;
+    border-radius: 50%;
+    border: 2px solid var(--background);
+    object-fit: cover;
+}
+
+.user-elements span {
+    font-size: 12px;
+    cursor: pointer;
+}
