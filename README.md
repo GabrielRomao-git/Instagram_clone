@@ -2,7 +2,7 @@
 
  <h1 alingn="center">Clone Instagram</h1>
  
-<h2>:exclamation:Objetivo de reproduzir a interface do instagram atráves do uso do React com foco em Microserviçõs</h2>
+<h2>:exclamation:Objetivo de reproduzir a interface do instagram atráves do uso do React com foco em Microserviços.</h2>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
