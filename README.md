@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/GabrielRomao-git/Instagram_clone?style=social" heigth="100%"/>
+<img src="https://img.shields.io/github/stars/GabrielRomao-git/Instagram_clone?style=social" width="110px"/>
 </p>
 
 # Descrição
